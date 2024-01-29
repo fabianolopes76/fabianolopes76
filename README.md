@@ -35,5 +35,5 @@
 <a href="mailto:fabiano@fabianolopes.com" target="_blank"><img src="https://img.shields.io/badge/fabiano@fabianolopes.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/prof.fabianolopes/" target="_blank"><img src="https://img.shields.io/badge/-@prof.fabianolopes-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/prof.fabianolopes/" target="_blank"><img src="https://img.shields.io/badge/-@prof.fabianolopes-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.x.com/fabiano_fl"><img src="https://img.shields.io/badge/-@fabiano_fl-010101?style=flat&logo=X&logoColor=white"/></a>
+<a href="https://www.x.com/fabiano_fl"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/fabiano_fl"></a>
 </p>
