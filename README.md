@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/3oz8xSx935n8Bjq4jm/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Fibonacci">
+<img src="https://github.com/fabianolopes76/fabianolopes76/weierstrassfractal.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Fibonacci">
 <h1 align="center">Hi , I'm Fabiano Lopes
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVieHpwZ2tpNmxta3N0OGsxaXp4d3M1ZnNpZnRwaXNxYXZwb25tNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xSx935n8Bjq4jm/giphy.gif" width="35"></h1>
+  <img src="https://github.com/fabianolopes76/fabianolopes76/weierstrassfractal.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer%20|%20College%20Professor%20;|%20Brazillian%20Digital%20Lawyer%20and%20Acountant%20|;Continuously%20studying%20new%20things&center=true&width=500&height=50"></a>
 </p>
