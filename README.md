@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.gifer.com/4DAt.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1 align="center">Hi , I'm Fabiano Lopes <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
