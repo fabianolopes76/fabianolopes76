@@ -1,8 +1,7 @@
-<img src="https://github.com/fabianolopes76/fabianolopes76/weierstrassfractal.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Fibonacci">
-<h1 align="center">Hi , I'm Fabiano Lopes
-  <img src="https://github.com/fabianolopes76/fabianolopes76/weierstrassfractal.gif" width="35"></h1>
+<img src="https://github.com/fabianolopes76/fabianolopes76/blob/main/Search-amico.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Fibonacci">
+<h1 align="center">Hi , I'm Fabiano Lopes</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer%20|%20College%20Professor%20;|%20Brazillian%20Digital%20Lawyer%20and%20Acountant%20|;Continuously%20studying%20new%20things&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22759A&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer+%7C+College+Professor;Digital+Lawyer+and+Accountant" alt="Typing SVG"></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -21,11 +20,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/thimarsola">
+<a href="https://github.com/fabianolopes76">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabianolopes76&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabianolopes76&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+</br>
 
   ### 🤝🏻 &nbsp;Connect with Me
 
