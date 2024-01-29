@@ -31,6 +31,7 @@
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://www.fabianolopes.com" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.fabianolopes.com"></a>
 <a href="https://www.linkedin.com/in/fabiano-f-lopes/" target="_blank"><img src="https://img.shields.io/badge/-Fabiano%20Lopes%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:fabiano@fabianolopes.com" target="_blank"><img src="https://img.shields.io/badge/fabiano@fabianolopes.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/prof.fabianolopes/" target="_blank"><img src="https://img.shields.io/badge/-@prof.fabianolopes-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
