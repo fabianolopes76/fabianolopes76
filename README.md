@@ -14,18 +14,18 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Wordpress](https://img.shields.io/badge/-Wordpress-05122A.svg?style=flat&logo=wordpress&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A.svg?style=flat&logo=laravel&logoColor=FF2D20)
-![Filament](https://img.shields.io/badge/-Filament-05122A?style=flat&logo=filament&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-05122A.svg?style=flat&logo=docker&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-</p>
+
+  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A.svg?style=flat&logo=wordpress&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/-Laravel-05122A.svg?style=flat&logo=laravel&logoColor=FF2D20)
+  ![Filament](https://img.shields.io/badge/-Filament-05122A?style=flat&logo=filament&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-05122A.svg?style=flat&logo=docker&logoColor=007ACC)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
 
 ---
 
