@@ -1,14 +1,20 @@
-<div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/fabianolopes76/fabianolopes76/blob/main/Search-amico.svg" width="300px" alt="Fabiano Lopes Illustration">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+
+  <div style="flex: 0 1 250px;">
+    <img src="https://github.com/fabianolopes76/fabianolopes76/blob/main/Search-amico.svg" width="100%" alt="Fabiano Lopes Illustration" />
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <h1>Hello, I'm Fabiano Lopes</h1>
+    <p>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22759A&center=false&vCenter=true&random=false&width=500&lines=Fullstack+Developer+%7C+College+Professor;Digital+Lawyer+%7C+Accountant" alt="Typing SVG" />
+      </a>
+    </p>
+  </div>
+
 </div>
 
-<h1 align="center">Hello, I'm Fabiano Lopes</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22759A&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer+%7C+College+Professor;Digital+Lawyer+%7C+Accountant" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
