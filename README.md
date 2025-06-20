@@ -41,22 +41,10 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.fabianolopes.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-fabianolopes.com-05122A?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fabiano-f-lopes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Fabiano_Lopes-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:fabiano@fabianolopes.com">
-    <img src="https://img.shields.io/badge/Gmail-fabiano@fabianolopes.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/prof.fabianolopes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@prof.fabianolopes-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/prof.fabianolopes/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-@prof.fabianolopes-1877F2?style=flat&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.x.com/fabiano_fl" target="_blank">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/fabiano_fl?style=flat&logo=twitter&logoColor=white"/>
-  </a>
+  <a href="https://www.fabianolopes.com" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.fabianolopes.com"></a>
+  <a href="https://www.linkedin.com/in/fabiano-f-lopes/" target="_blank"><img src="https://img.shields.io/badge/-Fabiano%20Lopes%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:fabiano@fabianolopes.com" target="_blank"><img src="https://img.shields.io/badge/fabiano@fabianolopes.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/prof.fabianolopes/" target="_blank"><img src="https://img.shields.io/badge/-@prof.fabianolopes-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/prof.fabianolopes/" target="_blank"><img src="https://img.shields.io/badge/-@prof.fabianolopes-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.x.com/fabiano_fl"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/fabiano_fl"></a>
 </p>
