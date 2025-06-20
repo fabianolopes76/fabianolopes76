@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
 
   <div style="flex: 0 1 250px;">
-    <img src="https://github.com/fabianolopes76/fabianolopes76/blob/main/Search-amico.svg" width="100%" alt="Fabiano Lopes Illustration" />
+    <img src="https://github.com/fabianolopes76/fabianolopes76/blob/main/Search-amico.svg" width="20%" alt="Fabiano Lopes Illustration" />
   </div>
 
   <div style="flex: 1; min-width: 300px;">
