@@ -9,6 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22759A&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer+%7C+College+Professor;Digital+Lawyer+%7C+Accountant" alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
 ### 🛠 Tech Stack
