@@ -1,5 +1,5 @@
 <div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/fabianolopes76/fabianolopes76/blob/main/Search-amico.svg" width="300px" alt="Fabiano Lopes Illustration">
+  <!-- <img src="https://github.com/fabianolopes76/fabianolopes76/blob/main/Search-amico.svg" width="300px" alt="Fabiano Lopes Illustration"> -->
 </div>
 
 <h1 align="center">Hello, I'm Fabiano Lopes</h1>
